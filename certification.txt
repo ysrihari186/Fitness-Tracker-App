@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the IIITGYM 1.0
+---------------------------------------------------
+
+app_name - 						IIITGYM
+app_alias - 					iiitgym
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Andhra Pradesh
+app_author_country - 			India
+app_password - 					Z1yMZoLzxusk
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Saturday 30th of November 2024 07:54:12 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
